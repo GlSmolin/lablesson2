@@ -1,0 +1,2 @@
+include ':app', ':lifecycleactivity', ':multiactivity', ':intentfilter', ':notificationapp', ':dialog', ':toastapp'
+rootProject.name='lablesson2'
